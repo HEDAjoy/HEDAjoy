@@ -8,7 +8,7 @@
 
 ## 🛠 Tech Stack & Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,java,nodejs,mongodb,mysql,docker,kubernetes,gcp,aws,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,java,nodejs,mysql,linux" />
 </p>
 
 ---
@@ -17,12 +17,12 @@
 - 🌱 I’m currently learning **Cloud & DevOps**  
 - 🚀 Passionate about **Web Development & Network Engineering**  
 - 🎯 Always looking for new challenges in **Software Engineering & Cloud Computing**  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-profile)  
+- 📫 How to reach me: [Email](gitongajoy164@gmail.com) | [GitHub](http://github.com/HEDAjoyhttps://github.com/HEDAjoy/HEDAjoy/edit/main/README.md)  
 
 ---
 
 ## 🔥 What I'm Working On  
-- ⚡ Improving my **GCP & Kubernetes** skills  
+- ⚡ Improving my **BackEnd** skills  
 - 🏗️ Building a **Full-Stack Web App**  
 - 📡 Researching **ISP Business Models** in Kenya  
 
@@ -36,9 +36,9 @@
 
 ## 📲 Let's Connect!  
 <p align="center">
-  <a href="https://github.com/your-profile"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="http://github.com/HEDAjoyhttps://github.com/HEDAjoy/HEDAjoy/edit/main/README.md"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+  
+  <a href="gitongajoy164@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
